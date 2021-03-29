@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ansible-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ansible-examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/filter_plugins/my_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/filter_plugins/my_filters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/format_device.yml" beforeDir="false" afterPath="$PROJECT_DIR$/format_device.yml" afterDir="false" />
@@ -122,7 +120,8 @@
       <workItem from="1614922100293" duration="16791000" />
       <workItem from="1615190495313" duration="601000" />
       <workItem from="1615367581406" duration="622000" />
-      <workItem from="1615390761520" duration="501000" />
+      <workItem from="1615390761520" duration="669000" />
+      <workItem from="1616754106452" duration="11205000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
@@ -290,6 +289,7 @@
     <MESSAGE value="changed comments" />
     <MESSAGE value="More few changes" />
     <MESSAGE value="Fixed role docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed role docker" />
+    <MESSAGE value="added filter code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added filter code" />
   </component>
 </project>
